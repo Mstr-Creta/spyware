@@ -27,5 +27,5 @@ This demonstration tool includes:
 ## 🚀 Getting Started
 
 1. Clone this repository:
-   ```bash
+
 https://github.com/Mstr-Creta/spyware.git
