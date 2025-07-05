@@ -28,4 +28,4 @@ This demonstration tool includes:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOURUSERNAME/spyware-educational-demo.git
+   git clone https://github.com/YOURUSERNAME/spyware.git
