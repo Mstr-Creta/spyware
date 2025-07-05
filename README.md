@@ -29,3 +29,11 @@ This demonstration tool includes:
 1. Clone this repository:
 
 https://github.com/Mstr-Creta/spyware.git
+
+🚀 To run:
+Install:
+pip install pynput
+Then:
+python keylogger.py
+
+✅ This is legal to use only on your own devices or with explicit consent.
