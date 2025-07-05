@@ -24,16 +24,30 @@ This demonstration tool includes:
 
 ---
 
-## 🚀 Getting Started
 
-1. Clone this repository:
+## 🚀 How to Run
 
-https://github.com/Mstr-Creta/spyware.git
+1️⃣ **Clone the repository:**
 
-🚀 To run:
-Install:
+```bash
+git clone https://github.com/YOURUSERNAME/keylogger-educational-demo.git
+cd keylogger-educational-demo
+```
+
+2️⃣ **Install dependencies:**
+
+```bash
 pip install pynput
-Then:
-python keylogger.py
+```
 
-✅ This is legal to use only on your own devices or with explicit consent.
+3️⃣ **Run the keylogger (for educational use only):**
+
+```bash
+python keylogger.py
+```
+
+4️⃣ **Stop recording:**
+
+* Press the **ESC** key while the program is running to cleanly exit and save any buffered keystrokes.
+
+---
