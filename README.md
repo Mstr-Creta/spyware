@@ -1,11 +1,3 @@
-# 🕵️ Spyware Educational Demo
-
-Hey everyone — I’m Ashutosh Behera, and this is a **demonstration project** created purely for educational and research purposes. This Python script simulates how spyware *could* gather user data, with the goal of raising awareness about privacy, data security, and personal digital hygiene.  
-
-⚠️ **DISCLAIMER**  
-This program is provided strictly for educational use on systems you own or have explicit permission to test. Unauthorized use of this program is illegal and may result in criminal prosecution. By running or modifying this script, you agree to use it solely in a legal, ethical, and authorized research context. The author takes no responsibility for misuse.
-
----
 
 ## 💡 What is Spyware?
 
